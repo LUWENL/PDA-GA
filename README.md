@@ -1,6 +1,6 @@
 # Parallel Dual Adaptive Genetic Algorithm based multi-satellite autonomous task allocation for moving target tracking
 <p align="center">
-<img src="architecture.svg" width="900px" height="330px" />
+<img src="architecture.svg" width="900px" height="325px" />
 </p>
 
 ### [video](Coming Soon) | [paper](Under Review)
