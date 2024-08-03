@@ -1,4 +1,4 @@
-### Parallel Dual Adaptive Genetic Algorithm based multi-satellite autonomous task allocation for moving target tracking
+### Parallel dual adaptive genetic algorithm: A method for satellite constellation task assignment in time-sensitive target tracking
 <p align="center">
 <img src="architecture.svg" width="900px" height="325px" />
 </p>
