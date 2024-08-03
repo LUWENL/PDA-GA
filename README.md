@@ -1,6 +1,6 @@
 ### Parallel dual adaptive genetic algorithm: A method for satellite constellation task assignment in time-sensitive target tracking
 <p align="center">
-<img src="architecture.svg" width="900px" height="325px" />
+<img src="architecture.png" width="900px" height="325px" />
 </p>
 
 ### PDA-GA
